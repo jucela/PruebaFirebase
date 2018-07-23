@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853363163864",
+    "firebase_url": "https://pruebafirebasex.firebaseio.com",
+    "project_id": "pruebafirebasex",
+    "storage_bucket": "pruebafirebasex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853363163864:android:9b5ab9828f7cbd38",
+        "android_client_info": {
+          "package_name": "com.example.jlavado.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853363163864-eif3fcj1qutp5ebviq0prp5inoe2iced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirOXeq4S9IQL_IBeGRskmlrAs3Me8n9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

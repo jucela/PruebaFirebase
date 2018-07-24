@@ -6,16 +6,26 @@
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".listado_alumnos">
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
+        android:gravity="center"
         android:text="ALUMNOS"
         android:textSize="20sp"
-        android:textStyle="bold"
-        android:gravity="center"/>
+        android:textStyle="bold" />
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="300dp" />
+
+    <Button
+        android:id="@+id/btnregresar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="REGRESAR
+" />
 </LinearLayout>
